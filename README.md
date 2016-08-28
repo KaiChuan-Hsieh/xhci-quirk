@@ -7,6 +7,6 @@ broken.
 
 Please use the following steps to complete installation.
 
-make<br>
-make install<br>
-reboot
+$ make<br>
+$ make install<br>
+$ reboot
